@@ -1,0 +1,12 @@
+.main {
+    border-radius: 23px;
+    background: #cccce0;
+    box-shadow: -35px 35px 70px #a3a3b3, 35px -35px 70px #f5f5ff;
+    text-align: center;
+    font-size: 48px;
+}
+
+.turn {
+    text-align: center;
+    font-size: 32px;
+}
